@@ -1,0 +1,57 @@
+body{
+    padding-left: 20px;
+    
+}
+nav{
+   
+    padding-left: 600px;
+    text-align: center;
+    font-size: larger;
+    text-decoration: none;
+      padding-top: 10px;
+ }
+ span{
+    color: #89C5CC;
+ }
+
+.meio{
+    display: flex;
+}
+h1{
+    font-size: 60px;
+}
+
+a{
+    color: rgb(143, 142, 142);
+    padding-left: 10px;
+    text-decoration: none;
+}
+.menu a:hover{
+    color: black;
+    background-color:#89C5CC;
+    border-radius: 10px;
+    font-size: 20px;
+  
+}
+p{
+    font-size: 1.5em;
+    margin-top: -200px;
+    text-align: justify;
+    color: gray;
+}
+.rodape{
+    text-align: center;
+    margin-top: 100px;
+    font-size: small;
+}
+
+  
+
+
+
+
+
+
+
+
+    
