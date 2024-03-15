@@ -1,5 +1,5 @@
 <p>
- <img src="./degrade.html" alt="demonstração do projeto" width="100%" />
+ <img src="./arquivos/readme-proj02.png" alt="demonstração do projeto" width="100%" />
 </p>
 
 ## 🖥️ Projeto
