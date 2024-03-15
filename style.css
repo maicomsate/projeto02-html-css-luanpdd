@@ -19,18 +19,23 @@ nav{
 }
 h1{
     font-size: 60px;
+    
 }
 
 a{
     color: rgb(143, 142, 142);
     padding-left: 10px;
     text-decoration: none;
+    
 }
 .menu a:hover{
     color: black;
     background-color:#89C5CC;
     border-radius: 10px;
     font-size: 20px;
+    border: 12px solid #89C5CC;
+    text-align:end;
+    
   
 }
 p{
@@ -43,9 +48,12 @@ p{
     text-align: center;
     margin-top: 100px;
     font-size: small;
+    
 }
 
-  
+.what{
+    box-shadow: none;
+}
 
 
 
